@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [github.com/zaitis](github.com/zaitis)
+- 👨‍💻 All of my projects are available at [github.com/zaitis](https://github.com/zaitis)
 
 - 📫 How to reach me **krzysztof@painm.pl**
 
