@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaitis&label=Profile%20views&color=0e75b6&style=flat" alt="zaitis" /> </p>
 
-- 🔭 I’m currently working on [Taxi Application](https://github.com/Zaitis/taxiPlatform)
+- 🔭 I’m currently working on [GatePass](https://github.com/Zaitis/GatePass)
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Docker, TDD, Git**
 
 - 👨‍💻 All of my projects are available at [github.com/zaitis](https://github.com/zaitis)
 
