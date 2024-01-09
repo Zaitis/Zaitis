@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GatePass](https://github.com/Zaitis/GatePass)
 
-- 🌱 I’m currently learning **Docker, TDD, Git**
+- 🌱 I’m currently learning **AWS, Docker**
 
 - 👨‍💻 All of my projects are available at [github.com/zaitis](https://github.com/zaitis)
 
