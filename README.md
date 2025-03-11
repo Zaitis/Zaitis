@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">Java programmer</h3>
+<h3 align="center">PHP/Java programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaitis&label=Profile%20views&color=0e75b6&style=flat" alt="zaitis" /> </p>
 
-- 🔭 I’m currently working on [GatePass](https://github.com/Zaitis/GatePass)
-
-- 🌱 I’m currently learning **AWS, Docker**
+<p align="left">I am a developer with experience in Java, PHP, and JavaScript, along with knowledge of SQL, Spring Boot, React.js, and Angular. My passion extends beyond programming to include AI, investing, personal development, and technology. I’m skilled at quickly and accurately solving complex problems, leveraging creativity, a good sense of humor, and solid organizational skills. I also have an extensive understanding of computer hardware, which proves valuable in daily work. I love exploring new fields and continuously expanding my skills, because I believe that continuous growth is the key to success.</p>
 
 - 👨‍💻 All of my projects are available at [github.com/zaitis](https://github.com/zaitis)
 
