@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with over 3.5 years of experience in **Java**, **PHP**, and **JavaScript**.
+I'm a passionate **Full-Stack Developer** with over 3 years of experience in **Java**, **PHP**, and **JavaScript**.
 I specialize in building scalable web applications and solving complex technical challenges with creative solutions.
 Combines technical expertise with a business-oriented mindset to build solutions that optimise processes and
 enhance user experience. In my free time, I enjoy learning about AI, psychology, investing, and personal development.
